@@ -1,6 +1,9 @@
-# Codex for Windows
+# ChatGPT（原 Codex）for Windows
 
-- 应用：OpenAI Codex
+
+**内网离线安装请使用 [完整 MSIX、许可证及安装说明](offline/README.md)。** 下方 EXE 为此前保存的在线安装器。
+
+- 应用：ChatGPT（原 Codex，包标识 `OpenAI.Codex`）
 - 下载日期：2026-09-19
 - 类型：Microsoft Store 官方在线安装器，运行时需联网下载应用，不是完整离线安装包。
 - Microsoft Store 产品 ID：`9PLM9XGG6VKS`
