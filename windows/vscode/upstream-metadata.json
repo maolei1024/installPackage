@@ -1,0 +1,11 @@
+{
+  "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/7debcd0e2acdea1c52de81bf9ee1620444407dda/VSCodeUserSetup-x64-1.138.0.exe",
+  "name": "1.138.0",
+  "version": "7debcd0e2acdea1c52de81bf9ee1620444407dda",
+  "productVersion": "1.138.0",
+  "hash": "9462d2763810c7139ffb2821946ddf8ca6bfe050",
+  "timestamp": 1789457970448,
+  "sha256hash": "820df7a601d0179fc850433e1a1c047d2926a7a5a78ef01cd49fe8833fa2010d",
+  "supportsFastUpdate": true,
+  "notes": "7debcd0e2acdea1c52de81bf9ee1620444407dda"
+}
